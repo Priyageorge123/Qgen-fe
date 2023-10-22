@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[Google Colab](https://colab.research.google.com/drive/1SisMLzHBI8tHH9GW4e4D_mrYj6mOI6uk?usp=sharing)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+Code for training[Google Colab](https://colab.research.google.com/drive/1SisMLzHBI8tHH9GW4e4D_mrYj6mOI6uk?usp=sharing)
 
 
 ## Available Scripts
